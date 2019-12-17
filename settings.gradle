@@ -1,0 +1,2 @@
+include ':app', ':elogbook'
+rootProject.name='Elogbooks'
